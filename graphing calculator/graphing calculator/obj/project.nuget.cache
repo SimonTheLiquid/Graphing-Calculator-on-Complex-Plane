@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZX5CjdbOPtio0f6q9ElXpVm3+9G1dCT52Dyx1diM1TNQ/u+CYN0Q+T3/aJRlMAeoow1CvJeUt5Ym8lV1htcpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simon\\OneDrive\\Documents\\winform\\graphing calculator\\graphing calculator\\graphing calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\simon\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

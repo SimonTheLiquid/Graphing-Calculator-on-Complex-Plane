@@ -1,0 +1,20 @@
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\graphing calculator.exe
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\graphing calculator.deps.json
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\graphing calculator.runtimeconfig.json
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\graphing calculator.dll
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\graphing calculator.pdb
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing_calculator.Form1.resources
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.csproj.GenerateResource.cache
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.AssemblyInfo.cs
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.csproj.CopyComplete
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.dll
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\refint\graphing calculator.dll
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.pdb
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\graphing calculator.genruntimeconfig.cache
+C:\Users\simon\OneDrive\Documents\winform\graphing calculator\graphing calculator\obj\Debug\net6.0-windows\ref\graphing calculator.dll
